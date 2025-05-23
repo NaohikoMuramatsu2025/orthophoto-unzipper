@@ -1,0 +1,15 @@
+# 一時的なデータフォルダ（処理対象・処理結果）
+zips/
+orthophotos/
+
+# MacやWindowsの不要ファイル
+.DS_Store
+Thumbs.db
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# ログファイル（あれば）
+*.log
